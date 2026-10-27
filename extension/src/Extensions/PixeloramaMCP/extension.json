@@ -1,0 +1,10 @@
+{
+	"name": "PixeloramaMCP",
+	"display_name": "Pixelorama MCP",
+	"description": "Lets AI agents draw in Pixelorama through the pixelorama-mcp server.",
+	"author": "CyberIce2077",
+	"version": "0.1.0",
+	"license": "MIT",
+	"supported_api_versions": [9],
+	"nodes": ["Main.tscn"]
+}
